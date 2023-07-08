@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '神经蛙的站点监控',
+  SiteName: '神经蛙监控站',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
