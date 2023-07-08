@@ -18,28 +18,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: '首页',
       url: 'https://home.sjava.cn/'
     },
     {
-      text: '神经蛙线路一',
+      text: '神经蛙',
       url: 'https://hexo.sjava.cn/'
-    },
-    {
-      text: '神经蛙线路二',
-      url: 'https://hexoblog.sjava.cn/'
     },
     {
       text: '芈亓的Blog',
       url: 'https://lx95.top/'
-    },
-    {
-      text: 'ChatGPT',
-      url: 'https://chatgpt.sjava.cn/'
-    },
-    {
-      text: '知识速查',
-      url: 'https://quick.sjava.cn/'
     },
   ],
 };
