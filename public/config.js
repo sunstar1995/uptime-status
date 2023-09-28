@@ -26,7 +26,7 @@ window.Config = {
       url: 'https://hexo.sjava.cn/'
     },
     {
-      text: '芈亓的Blog',
+      text: '芈亓',
       url: 'https://lx95.top/'
     },
   ],
